@@ -139,7 +139,7 @@ Contributions, issues, and feature requests are welcome. Feel free to open an is
 
 ## 👤 Author
 
-Built by [Your Name / Team Name].
+Built by [B ADARSH SUBUDHI].
 
 ---
 
